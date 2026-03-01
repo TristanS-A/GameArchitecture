@@ -88,8 +88,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
-*.exe
-*.dll
 *.x86_64
 *.debug
 *.so
