@@ -1,8 +1,8 @@
 # GameArchitecture
 
-### This was our two person final project for our game archatecure course at Champlain College. 
+This was our two person final project for our game archatecure course at Champlain College. 
 
-### You play as a wizard trying to take back your magical pet that was stolen by a gang of cowboys. This is a 2D turn based game, but where each turn plays out in real time, so you can control dodging and attacking in real-time. 
+You play as a wizard trying to take back your magical pet that was stolen by a gang of cowboys. This is a 2D turn based game, but where each turn plays out in real time, so you can control dodging and attacking in real-time. 
 
 ## Controls:
 - Movement: WASD
@@ -15,3 +15,8 @@
 - Attack: You shoot magic wizard spells at the enemies while dodging their shots in real-time
 - Charge: You can build up your magic power and double the amount of shots you get next turn
 - Heal: Cast a healing spell on yourself to bring your health back up
+
+## Instructions To Run Project:
+- Open GameArchitecture\Tristan&Alex\FinalProject\assignment2.sln
+- Select GameArchFinal as the startup project
+- Run
