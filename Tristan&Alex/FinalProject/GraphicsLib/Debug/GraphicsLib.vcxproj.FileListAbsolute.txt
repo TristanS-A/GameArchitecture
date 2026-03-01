@@ -1,0 +1,2 @@
+C:\Users\tropi\Documents\ProjectRepos\SchoolProjects\Game Architecture\Tristan&Alex\FinalProject\GraphicsLib\Debug\GraphicsLib.lib
+C:\Users\tropi\Documents\ProjectRepos\SchoolProjects\GameArchitecture\Tristan&Alex\FinalProject\GraphicsLib\Debug\GraphicsLib.lib

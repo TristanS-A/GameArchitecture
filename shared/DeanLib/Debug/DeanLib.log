@@ -1,0 +1,16 @@
+﻿  DataRepository.cpp
+  DeanLibUtilities.cpp
+  DeanMath.cpp
+  Event.cpp
+  EventListener.cpp
+  EventSystem.cpp
+  MemoryPool.cpp
+  MemoryTracker.cpp
+  PerformanceTracker.cpp
+  RayCaster.cpp
+  Timer.cpp
+  tinyxml2.cpp
+  Trackable.cpp
+  Vector2D.cpp
+  Generating Code...
+  DeanLib.vcxproj -> C:\Users\tropi\Documents\ProjectRepos\SchoolProjects\GameArchitecture\shared\DeanLib\lib\DeanLibDebug.lib

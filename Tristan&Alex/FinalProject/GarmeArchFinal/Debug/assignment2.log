@@ -1,0 +1,32 @@
+﻿  AddToMessageListEvent.cpp
+  Bullet.cpp
+  Button.cpp
+  ButtonManager.cpp
+  ChangeLanguageEvent.cpp
+  ChangeUnitAnimationEvent.cpp
+  ChangeUnitAnimationSpeedEvent.cpp
+  Enemy.cpp
+  FireGunEvent.cpp
+  Particle.cpp
+  ParticlePool.cpp
+  PlaySoundEvent.cpp
+  TextManager.cpp
+  UIMenuManager.cpp
+  MoveMouseEvent.cpp
+  Game.cpp
+  GameEvent.cpp
+  HUD.cpp
+  InputTranslator.cpp
+  main.cpp
+  Generating Code...
+  Compiling...
+  ClickButtonEvent.cpp
+  Player.cpp
+  SoundManager.cpp
+  SubtractPointsEvent.cpp
+  UIMenu.cpp
+  Unit.cpp
+  UnitManager.cpp
+  World.cpp
+  Generating Code...
+  assignment2.vcxproj -> C:\Users\tropi\Documents\ProjectRepos\SchoolProjects\GameArchitecture\Tristan&Alex\FinalProject\Debug\GarmeArchFinal.exe

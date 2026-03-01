@@ -1,0 +1,163 @@
+Buttons:
+
+Attack Button:
+Attack
+Ataque
+Attaque
+
+Reload Button:
+Charge
+Cargar
+Charger
+
+Heal Button:
+Heal
+Sanar
+Guerir
+
+Start Button:
+Start
+Comenzar
+Commencer
+
+Load Button:
+Load
+Cargar
+Charger
+
+Options Button:
+Options
+Opciones
+Options
+
+Quit Button:
+Quit
+Salir
+Quitter
+
+Sound Toggle Button:
+Turn Off
+Apagar
+Eteindre
+
+Alt Sound Toggle Button:
+Turn On
+Activar
+Activer
+
+English Button:
+English
+Ingles
+Anglais
+
+Spanish Button:
+Spanish
+Espanol
+Espagnol
+
+French Button:
+French
+Frances
+Francais
+
+Easy Button:
+Easy
+Facil
+Facile
+
+Medium Button:
+Medium
+Medio
+Moyen
+
+Hard Button:
+Hard
+Duro
+Dur
+
+Back Button:
+Back
+Volver
+Retour
+
+Retry Button:
+Retry
+Reintentar
+Reessayer
+
+Resume Button:
+Resume
+Reanudar
+Reprendre
+
+Main Menu Button:
+Main Menu
+Menu Principal
+Menu Principal
+
+Bullets Remaining Text:
+Shots Remaining
+Tiros Restantes
+Coups restants
+
+Player Turn Text:
+It's your turn!
+Es tu turno!
+A vous de jouer!
+
+Player Win Text:
+You won!
+Ganaste!
+Vous avez gagne!
+
+Health Display Text:
+Health
+Salud
+Sante
+
+Talk Text:
+Talk
+Hablar
+Parler
+
+Sound Settings:
+Sound Settings
+Ajustes de Sonido
+Parametres Sonores
+
+Difficulty Settings:
+Difficulty Settings
+Ajustes de Dificultad
+Parametres de Difficulte
+
+Language Settings:
+Language Settings
+Ajustes de Idioma
+Parametres de Langue
+
+Pause Text:
+Paused
+En pausa
+En pause
+
+Win Game Text:
+You did it!
+Lo hiciste!
+Tu l'as fait!
+
+Game Over Text:
+You lost...
+Perdiste...
+Tu as perdu...
+
+Intro Text English:
+A gang of cowboys saw your magical animal side-kick playing outside and snatched it!
+You have to get it back!
+
+Intro Text Spanish:
+Una pandilla de vaqueros vio a tu companero animal magico jugando afuera y se lo arrebato!
+Tienes que recuperarlo!
+
+Intro Text French:
+Une bande de cow-boys a vu votre acolyte animal magique jouer dehors et l'a arrache!
+Il faut le recuperer!

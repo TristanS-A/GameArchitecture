@@ -1,0 +1,15 @@
+﻿  Animation.cpp
+  AnimationData.cpp
+  AnimationManager.cpp
+  Color.cpp
+  Font.cpp
+  GraphicsBuffer.cpp
+  GraphicsBufferManager.cpp
+  GraphicsSystem.cpp
+  InputEvent.cpp
+  InputSystem.cpp
+  KeyPressEvent.cpp
+  MouseEvent.cpp
+  Sprite.cpp
+  Generating Code...
+  GraphicsLib.vcxproj -> C:\Users\tropi\Documents\ProjectRepos\SchoolProjects\GameArchitecture\Tristan&Alex\FinalProject\GraphicsLib\Debug\GraphicsLib.lib
